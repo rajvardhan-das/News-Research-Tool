@@ -1,0 +1,2 @@
+This is a test file for testing LangChain TextLoader.
+It contains a few lines of text for testing purposes.
